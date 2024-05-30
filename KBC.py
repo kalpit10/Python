@@ -13,7 +13,7 @@ def KBC(questions):
     print("Game over! Your total winnings are:", amount)
 
 
-# List of question-answer pairs
+# Dictionary
 questions = [{
     "question": "What is the capital of INDIA?",
     "answer": "New Delhi"
